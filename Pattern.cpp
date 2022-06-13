@@ -3,6 +3,12 @@ using namespace std;
 
 //Hollow Rectangle
 
+// ****
+// *  *
+// *  *
+// *  *
+// ****
+
 int main()
 {
     int row,col;
